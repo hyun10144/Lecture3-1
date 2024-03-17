@@ -1,2 +1,2 @@
-# Lecture-3-1-
+# Lecture(3-1)
  Contents of the lecture
