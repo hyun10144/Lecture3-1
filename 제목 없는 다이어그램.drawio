@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T06:39:09.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lbUVbGgvX5ZfeE0hBt4H" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-03T06:39:17.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PLfeyu3IpAM81cEl_dhF" version="24.2.1" type="github" pages="2">
   <diagram name="테스트-1" id="crpGcYe5JIqGgmfARWiJ">
     <mxGraphModel dx="1518" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -97,7 +97,7 @@
           <mxGeometry x="70" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1xgJE5vAkUswXADNoP8a-45" value="PG" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.application;appType=actor;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="377.5" width="100" height="75" as="geometry" />
+          <mxGeometry x="930" y="385" width="140" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
