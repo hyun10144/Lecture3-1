@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T06:40:54.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qGdG5OJtO-s8n-8c1ASS" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-03T06:43:41.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="07gHYxAAAcgobMxx1Bpb" version="24.2.1" type="github" pages="2">
   <diagram name="테스트-1" id="crpGcYe5JIqGgmfARWiJ">
-    <mxGraphModel dx="1518" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,9 +25,6 @@
         </mxCell>
         <mxCell id="1xgJE5vAkUswXADNoP8a-1" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;상품 보기&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;fillColor=none;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="344" y="140" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1xgJE5vAkUswXADNoP8a-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" source="1xgJE5vAkUswXADNoP8a-3" target="1xgJE5vAkUswXADNoP8a-1" parent="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1xgJE5vAkUswXADNoP8a-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="1xgJE5vAkUswXADNoP8a-3" target="1xgJE5vAkUswXADNoP8a-9">
           <mxGeometry relative="1" as="geometry" />
@@ -68,9 +65,6 @@
         <mxCell id="1xgJE5vAkUswXADNoP8a-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="1xgJE5vAkUswXADNoP8a-23" target="1xgJE5vAkUswXADNoP8a-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1xgJE5vAkUswXADNoP8a-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="1xgJE5vAkUswXADNoP8a-23" target="1xgJE5vAkUswXADNoP8a-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="1xgJE5vAkUswXADNoP8a-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=block;endFill=0;" edge="1" parent="1" source="1xgJE5vAkUswXADNoP8a-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="380" as="targetPoint" />
@@ -93,6 +87,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZmuYB---4v2tmwFRyS2y-1" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;curved=0;" edge="1" parent="1" source="1xgJE5vAkUswXADNoP8a-34" target="1xgJE5vAkUswXADNoP8a-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1xgJE5vAkUswXADNoP8a-34" value="구매자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="290" width="30" height="60" as="geometry" />
         </mxCell>
@@ -103,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n9FGADXHsb4txi5t6AIW" name="유스케이스-1">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
