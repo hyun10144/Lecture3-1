@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T06:39:17.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PLfeyu3IpAM81cEl_dhF" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-03T06:40:31.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IukSgNUIR_UgFj9EMJNP" version="24.2.1" type="github" pages="2">
   <diagram name="테스트-1" id="crpGcYe5JIqGgmfARWiJ">
-    <mxGraphModel dx="1518" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,7 +54,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1xgJE5vAkUswXADNoP8a-21" value="온라인 쇼핑" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="1xgJE5vAkUswXADNoP8a-21" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;온라인 쇼핑 시스템&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="320" y="55" width="420" height="565" as="geometry">
             <mxRectangle x="320" y="55" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
