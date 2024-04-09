@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:34:28.696Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2KbxDW790lY0065WF4D0" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:36:14.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="z4PX89CHftQdPcuDVEM1" version="24.2.1" type="github" pages="2">
   <diagram name="은행창구업무" id="pEMZxm48bOjHBHnZT3vH">
     <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,19 +78,19 @@
           <mxGeometry x="30" y="40" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ssL2i1a5KdbHVE2aIDu4-5" value="학생정보 관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
-          <mxGeometry x="40" y="120" width="100" height="60" as="geometry" />
+          <mxGeometry x="37.5" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PtTDe4A0RHArXaeXUNKU-1" value="교수정보 관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
-          <mxGeometry x="40" y="190" width="100" height="55" as="geometry" />
+          <mxGeometry x="35" y="210" width="100" height="55" as="geometry" />
         </mxCell>
         <mxCell id="PtTDe4A0RHArXaeXUNKU-3" value="등록금 관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
-          <mxGeometry x="350" y="120" width="107" height="65" as="geometry" />
+          <mxGeometry x="250" y="180" width="70" height="55" as="geometry" />
         </mxCell>
         <mxCell id="PtTDe4A0RHArXaeXUNKU-4" value="수강 신청" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
           <mxGeometry x="30" y="370" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PtTDe4A0RHArXaeXUNKU-5" value="성적관리" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
-          <mxGeometry x="190" y="140" width="110" height="60" as="geometry" />
+          <mxGeometry x="250" y="120" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtTDe4A0RHArXaeXUNKU-21" value="학생명단 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
           <mxGeometry x="30" y="460" width="110" height="60" as="geometry" />
@@ -111,6 +111,20 @@
           <mxGeometry x="-0.3333" y="-36" width="160" relative="1" as="geometry">
             <mxPoint x="194" y="95" as="sourcePoint" />
             <mxPoint x="194" y="50" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtTDe4A0RHArXaeXUNKU-43" value="&amp;lt;&amp;lt;extend&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ssL2i1a5KdbHVE2aIDu4-1" source="PtTDe4A0RHArXaeXUNKU-5" target="ssL2i1a5KdbHVE2aIDu4-5">
+          <mxGeometry x="0.2227" y="-9" width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="155" as="sourcePoint" />
+            <mxPoint x="215" y="130" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtTDe4A0RHArXaeXUNKU-44" value="&amp;lt;&amp;lt;extend&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=11;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ssL2i1a5KdbHVE2aIDu4-1" source="PtTDe4A0RHArXaeXUNKU-3" target="ssL2i1a5KdbHVE2aIDu4-5">
+          <mxGeometry x="-0.342" y="-9" width="160" relative="1" as="geometry">
+            <mxPoint x="240" y="210" as="sourcePoint" />
+            <mxPoint x="128" y="225" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
