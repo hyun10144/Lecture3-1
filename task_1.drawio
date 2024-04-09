@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:51:54.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Gy4F0ANQpivaw46hF17J" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:52:14.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fvKPZM8NoD1EVpgpll8K" version="24.2.1" type="github" pages="2">
   <diagram name="은행창구업무" id="pEMZxm48bOjHBHnZT3vH">
     <mxGraphModel dx="1518" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,7 +210,7 @@
           <mxGeometry x="35" y="290" width="92.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PtTDe4A0RHArXaeXUNKU-24" value="성적 입력" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
-          <mxGeometry x="42.5" y="540" width="90" height="50" as="geometry" />
+          <mxGeometry x="31.25" y="540" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtTDe4A0RHArXaeXUNKU-29" value="비밀번호 변경" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
           <mxGeometry x="240" y="60" width="80" height="50" as="geometry" />
