@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:18:45.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="fh-e8ytLagKiORokzkCa" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:18:51.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VZWuyOAEQPcXzUx-Sa9C" version="24.2.1" type="github" pages="2">
   <diagram name="학사행정시스템" id="pEMZxm48bOjHBHnZT3vH">
     <mxGraphModel dx="1518" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,9 +66,9 @@
         <mxCell id="zSQIVwgF1w6yoGa60VnT-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ssL2i1a5KdbHVE2aIDu4-1" source="zSQIVwgF1w6yoGa60VnT-7" target="ssL2i1a5KdbHVE2aIDu4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zSQIVwgF1w6yoGa60VnT-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ssL2i1a5KdbHVE2aIDu4-1" target="ssL2i1a5KdbHVE2aIDu4-4">
+        <mxCell id="zSQIVwgF1w6yoGa60VnT-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="300" as="targetPoint" />
+            <mxPoint x="130" y="290" as="targetPoint" />
             <mxPoint x="55" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
