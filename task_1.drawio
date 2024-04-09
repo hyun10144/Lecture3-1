@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:55:34.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_8Go4H22nana7J2n8-KS" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:56:21.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gBnfq-7gUlDdAcrkpoBW" version="24.2.1" type="github" pages="2">
   <diagram name="은행창구업무" id="pEMZxm48bOjHBHnZT3vH">
     <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
           <mxGeometry x="35.5" y="590" width="132" height="50" as="geometry" />
         </mxCell>
         <mxCell id="X-YPdeMcHiGR6vABLX4l-9" value="예금" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="X-YPdeMcHiGR6vABLX4l-1">
-          <mxGeometry x="43" y="420" width="100" height="40" as="geometry" />
+          <mxGeometry x="39.25" y="420" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-YPdeMcHiGR6vABLX4l-10" value="입출금" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="X-YPdeMcHiGR6vABLX4l-1">
           <mxGeometry x="43" y="365" width="92.5" height="40" as="geometry" />
