@@ -1,39 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:19:57.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="oRUhAGvCGdDXL6v43hEh" version="24.2.1" type="github" pages="2">
-  <diagram name="학사행정시스템" id="pEMZxm48bOjHBHnZT3vH">
-    <mxGraphModel dx="1518" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:21:23.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5jfm1J56_v58sgqBIoLY" version="24.2.1" type="github" pages="2">
+  <diagram name="은행창구업무" id="pEMZxm48bOjHBHnZT3vH">
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PapwiMXRqVFnyAmzHA4n-10" value="학사행정 시스템" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PapwiMXRqVFnyAmzHA4n-10" value="은행창구 업무" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry width="830" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="PapwiMXRqVFnyAmzHA4n-14" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PapwiMXRqVFnyAmzHA4n-10">
-          <mxGeometry x="330" y="55" width="140" height="70" as="geometry" />
+        <mxCell id="yI5YlTx4VZA01a0m-8zz-1" value="비회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="PapwiMXRqVFnyAmzHA4n-10">
+          <mxGeometry x="130" y="300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PapwiMXRqVFnyAmzHA4n-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="PapwiMXRqVFnyAmzHA4n-16" target="PapwiMXRqVFnyAmzHA4n-14" parent="PapwiMXRqVFnyAmzHA4n-10">
+        <mxCell id="yI5YlTx4VZA01a0m-8zz-2" value="회원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="PapwiMXRqVFnyAmzHA4n-10">
+          <mxGeometry x="130" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI5YlTx4VZA01a0m-8zz-3" value="은행원&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="PapwiMXRqVFnyAmzHA4n-10">
+          <mxGeometry x="130" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yI5YlTx4VZA01a0m-8zz-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PapwiMXRqVFnyAmzHA4n-10" target="yI5YlTx4VZA01a0m-8zz-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="100" as="targetPoint" />
+            <mxPoint x="70" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yI5YlTx4VZA01a0m-8zz-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PapwiMXRqVFnyAmzHA4n-10" source="yI5YlTx4VZA01a0m-8zz-7" target="yI5YlTx4VZA01a0m-8zz-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PapwiMXRqVFnyAmzHA4n-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="PapwiMXRqVFnyAmzHA4n-10">
-          <mxGeometry x="80" y="65" width="30" height="60" as="geometry" />
+        <mxCell id="yI5YlTx4VZA01a0m-8zz-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PapwiMXRqVFnyAmzHA4n-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="320" as="targetPoint" />
+            <mxPoint x="55" y="250" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PapwiMXRqVFnyAmzHA4n-11" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PapwiMXRqVFnyAmzHA4n-10">
-          <mxGeometry x="400" y="150" width="140" height="70" as="geometry" />
+        <mxCell id="yI5YlTx4VZA01a0m-8zz-7" value="사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="PapwiMXRqVFnyAmzHA4n-10">
+          <mxGeometry x="40" y="160" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PapwiMXRqVFnyAmzHA4n-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="PapwiMXRqVFnyAmzHA4n-13" target="PapwiMXRqVFnyAmzHA4n-11" parent="PapwiMXRqVFnyAmzHA4n-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="60hmNPv1t8XD7ws1-3ZI-1" value="교수" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="790" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PapwiMXRqVFnyAmzHA4n-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="PapwiMXRqVFnyAmzHA4n-10">
-          <mxGeometry x="260" y="155" width="30" height="60" as="geometry" />
+        <mxCell id="60hmNPv1t8XD7ws1-3ZI-2" value="학생" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="680" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60hmNPv1t8XD7ws1-3ZI-3" value="행정 관리자&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="60hmNPv1t8XD7ws1-3ZI-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="60hmNPv1t8XD7ws1-3ZI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="590" as="targetPoint" />
+            <mxPoint x="80" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60hmNPv1t8XD7ws1-3ZI-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="60hmNPv1t8XD7ws1-3ZI-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="685" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60hmNPv1t8XD7ws1-3ZI-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="810" as="targetPoint" />
+            <mxPoint x="65" y="740" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="KQM0bSPzwLxd08oV0qdu" name="은행창구업무">
+  <diagram id="KQM0bSPzwLxd08oV0qdu" name="학사행정시스템">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ssL2i1a5KdbHVE2aIDu4-1" value="u" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ssL2i1a5KdbHVE2aIDu4-1" value="학사행정 시스템" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="520" width="830" height="490" as="geometry" />
         </mxCell>
         <mxCell id="ssL2i1a5KdbHVE2aIDu4-2" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ssL2i1a5KdbHVE2aIDu4-1">
