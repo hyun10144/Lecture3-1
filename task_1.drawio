@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:33:43.799Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_SnilLyclEwDBsGcHyS7" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:33:52.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eNeqyvftBjHqMspfpWDp" version="24.2.1" type="github" pages="2">
   <diagram name="은행창구업무" id="pEMZxm48bOjHBHnZT3vH">
     <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,12 +114,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtTDe4A0RHArXaeXUNKU-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ssL2i1a5KdbHVE2aIDu4-1" target="PtTDe4A0RHArXaeXUNKU-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="140" as="sourcePoint" />
-            <mxPoint x="70" y="215" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ssL2i1a5KdbHVE2aIDu4-4" value="교수" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="840" width="30" height="60" as="geometry" />
         </mxCell>
@@ -159,7 +153,7 @@
             <mxPoint x="200" y="655" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtTDe4A0RHArXaeXUNKU-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSQIVwgF1w6yoGa60VnT-4" target="ssL2i1a5KdbHVE2aIDu4-5">
+        <mxCell id="PtTDe4A0RHArXaeXUNKU-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSQIVwgF1w6yoGa60VnT-4" target="ssL2i1a5KdbHVE2aIDu4-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="484" as="sourcePoint" />
             <mxPoint x="320" y="470" as="targetPoint" />
@@ -175,6 +169,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="770" as="sourcePoint" />
             <mxPoint x="380" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtTDe4A0RHArXaeXUNKU-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zSQIVwgF1w6yoGa60VnT-4" target="PtTDe4A0RHArXaeXUNKU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="480" as="sourcePoint" />
+            <mxPoint x="360" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
