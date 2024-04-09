@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T06:28:58.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sBVm4FjMd3kIr26vxgWH" version="24.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-09T06:29:38.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="usxi86F97dXtE1Wk1ZRv" version="24.2.1" type="github" pages="2">
   <diagram name="은행창구업무" id="pEMZxm48bOjHBHnZT3vH">
     <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,19 +116,10 @@
         <mxCell id="zSQIVwgF1w6yoGa60VnT-4" value="행정 관리자&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zSQIVwgF1w6yoGa60VnT-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="zSQIVwgF1w6yoGa60VnT-4">
+        <mxCell id="zSQIVwgF1w6yoGa60VnT-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" target="zSQIVwgF1w6yoGa60VnT-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="555" as="targetPoint" />
             <mxPoint x="150" y="605" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zSQIVwgF1w6yoGa60VnT-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zSQIVwgF1w6yoGa60VnT-7" target="ssL2i1a5KdbHVE2aIDu4-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zSQIVwgF1w6yoGa60VnT-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ssL2i1a5KdbHVE2aIDu4-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="775" as="targetPoint" />
-            <mxPoint x="135" y="705" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zSQIVwgF1w6yoGa60VnT-7" value="사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -141,6 +132,18 @@
             <Array as="points">
               <mxPoint x="135" y="415" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtTDe4A0RHArXaeXUNKU-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=0;endArrow=none;endFill=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zSQIVwgF1w6yoGa60VnT-7" target="ssL2i1a5KdbHVE2aIDu4-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="690" as="targetPoint" />
+            <mxPoint x="140" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtTDe4A0RHArXaeXUNKU-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=0;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zSQIVwgF1w6yoGa60VnT-7" target="ssL2i1a5KdbHVE2aIDu4-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="560" as="targetPoint" />
+            <mxPoint x="200" y="655" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
