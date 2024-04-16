@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T07:27:35.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="oMUd94XL1ZetNAI8z63w" version="24.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-16T07:30:47.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Fw_rQt88OJWR7jHacN6e" version="24.2.3" type="github" pages="3">
   <diagram name="페이지-1" id="jbqILOrncthVpkQN2bGO">
     <mxGraphModel dx="1518" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,11 +409,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="B4yeJeWlsi85kBS3Qe7o" name="페이지-3">
-    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="C88zYIZVQ-r3xFeLL64r-39" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;온라인 쇼핑 시스템&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="C88zYIZVQ-r3xFeLL64r-39" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;온라인 렌트카 예약 시스템&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="250" y="55" width="490" height="565" as="geometry">
             <mxRectangle x="320" y="55" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -424,7 +424,7 @@
         <mxCell id="C88zYIZVQ-r3xFeLL64r-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;일자입력&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;fillColor=none;textShadow=0;" vertex="1" parent="C88zYIZVQ-r3xFeLL64r-39">
           <mxGeometry x="370" y="285" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="C88zYIZVQ-r3xFeLL64r-42" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="C88zYIZVQ-r3xFeLL64r-39">
+        <mxCell id="C88zYIZVQ-r3xFeLL64r-42" value="즐겨찾기" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="C88zYIZVQ-r3xFeLL64r-39">
           <mxGeometry x="40" y="155" width="70" height="45" as="geometry" />
         </mxCell>
         <mxCell id="C88zYIZVQ-r3xFeLL64r-43" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;렌트카 검색&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;fillColor=none;textShadow=0;" vertex="1" parent="C88zYIZVQ-r3xFeLL64r-39">
@@ -530,7 +530,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C88zYIZVQ-r3xFeLL64r-63" value="PG" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="880" y="540" width="30" height="60" as="geometry" />
+          <mxGeometry x="800" y="540" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C88zYIZVQ-r3xFeLL64r-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="C88zYIZVQ-r3xFeLL64r-65" target="C88zYIZVQ-r3xFeLL64r-47">
           <mxGeometry relative="1" as="geometry" />
@@ -546,7 +546,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C88zYIZVQ-r3xFeLL64r-67" value="PG" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate.application;appType=actor;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="940" y="540" width="140" height="72.5" as="geometry" />
+          <mxGeometry x="850" y="540" width="140" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="S-VWmKZL-6--i9iBmtRD-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C88zYIZVQ-r3xFeLL64r-53" target="S-VWmKZL-6--i9iBmtRD-5">
           <mxGeometry relative="1" as="geometry">
