@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T07:03:03.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BxGLFEDvnGyz-u3SHXAB" version="24.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-16T07:06:01.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LtbgD6c8WI4nmBON8vQo" version="24.2.3" type="github" pages="2">
   <diagram name="페이지-1" id="jbqILOrncthVpkQN2bGO">
     <mxGraphModel dx="1518" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,9 +231,6 @@
         <mxCell id="ZTea2ALx7DOUW2U_88vz-2" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="30" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZTea2ALx7DOUW2U_88vz-3" value="Delivery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="30" width="110" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ZTea2ALx7DOUW2U_88vz-4" value="Rent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="30" width="110" height="40" as="geometry" />
         </mxCell>
@@ -250,12 +247,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="504.5" y="590" as="targetPoint" />
             <mxPoint x="504.5" y="70" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZTea2ALx7DOUW2U_88vz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ZTea2ALx7DOUW2U_88vz-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="684.5" y="590" as="targetPoint" />
-            <mxPoint x="684.5" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZTea2ALx7DOUW2U_88vz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="ZTea2ALx7DOUW2U_88vz-2" target="ZTea2ALx7DOUW2U_88vz-10">
@@ -284,15 +275,6 @@
         </mxCell>
         <mxCell id="ZTea2ALx7DOUW2U_88vz-14" value="" style="rounded=0;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="230" width="10" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="ZTea2ALx7DOUW2U_88vz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" target="ZTea2ALx7DOUW2U_88vz-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="684.5" y="590" as="targetPoint" />
-            <mxPoint x="684.5" y="70" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZTea2ALx7DOUW2U_88vz-16" value="" style="rounded=0;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="260" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZTea2ALx7DOUW2U_88vz-17" value="" style="rounded=0;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="313" y="106" width="10" height="70" as="geometry" />
@@ -328,20 +310,9 @@
             <mxPoint x="310" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZTea2ALx7DOUW2U_88vz-24" value="예약 정보 확인" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZTea2ALx7DOUW2U_88vz-23">
+        <mxCell id="ZTea2ALx7DOUW2U_88vz-24" value="렌트카정보 제공" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZTea2ALx7DOUW2U_88vz-23">
           <mxGeometry x="-0.0133" y="-2" relative="1" as="geometry">
-            <mxPoint x="25" y="-12" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZTea2ALx7DOUW2U_88vz-25" value="" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=classic;endFill=1;rounded=0;entryX=0;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="280" as="sourcePoint" />
-            <mxPoint x="680" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZTea2ALx7DOUW2U_88vz-26" value="재발송의뢰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZTea2ALx7DOUW2U_88vz-25">
-          <mxGeometry x="-0.0133" y="-2" relative="1" as="geometry">
-            <mxPoint x="-24" y="-12" as="offset" />
+            <mxPoint x="15" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZTea2ALx7DOUW2U_88vz-27" value="" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=classic;endFill=1;rounded=0;" edge="1" parent="1">
@@ -357,11 +328,11 @@
         </mxCell>
         <mxCell id="ZTea2ALx7DOUW2U_88vz-29" value="" style="html=1;verticalAlign=bottom;startArrow=classic;endArrow=none;endFill=0;rounded=0;entryX=0;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;startFill=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="320" as="sourcePoint" />
-            <mxPoint x="690" y="320" as="targetPoint" />
+            <mxPoint x="140" y="290" as="sourcePoint" />
+            <mxPoint x="500" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZTea2ALx7DOUW2U_88vz-30" value="제품발송" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZTea2ALx7DOUW2U_88vz-29">
+        <mxCell id="ZTea2ALx7DOUW2U_88vz-30" value="예약정보 확인 문자발송" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZTea2ALx7DOUW2U_88vz-29">
           <mxGeometry x="-0.0133" y="-2" relative="1" as="geometry">
             <mxPoint x="-24" y="-12" as="offset" />
           </mxGeometry>
