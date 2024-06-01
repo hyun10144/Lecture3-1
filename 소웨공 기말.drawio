@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T16:24:21.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rloSpy6ge57fxYdafNWw" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-01T16:25:10.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0sJwrLh7PouKNv9xJOGZ" version="24.4.13" type="github">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
     <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,32 +10,32 @@
         <mxCell id="9gbs9tgWKVbymUqdHYrf-11" value="&lt;div&gt;UC-01&lt;/div&gt;로그인" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
           <mxGeometry x="50" y="30" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-12" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;메뉴관&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="396" width="110" height="45" as="geometry" />
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-12" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;메뉴관리&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
+          <mxGeometry x="50" y="90" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-13" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;주문접수&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="456" width="110" height="45" as="geometry" />
+          <mxGeometry x="50" y="150" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-14" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;주문상태 업데이트&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="516" width="110" height="45" as="geometry" />
+          <mxGeometry x="50" y="210" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-15" value="&lt;div&gt;&lt;b&gt;UC-02&lt;/b&gt;&lt;/div&gt;&lt;b&gt;본인인증&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
           <mxGeometry x="230" y="45" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-17" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;리뷰댓글작성&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="576" width="110" height="45" as="geometry" />
+          <mxGeometry x="50" y="270" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-18" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;음식주문&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="90" width="110" height="45" as="geometry" />
+          <mxGeometry x="50" y="412" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-19" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;주문내역&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="150" width="110" height="45" as="geometry" />
+          <mxGeometry x="50" y="472" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-20" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달추적&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="210" width="110" height="45" as="geometry" />
+          <mxGeometry x="50" y="532" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-21" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;리뷰작성&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="270" width="110" height="45" as="geometry" />
+          <mxGeometry x="50" y="592" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-22" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달 요청 수락&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
           <mxGeometry x="50" y="770" width="110" height="45" as="geometry" />
