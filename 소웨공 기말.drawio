@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T11:16:17.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j6HqLGfgYZjqfLI3zRwj" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T11:17:24.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PBJe_M8qaT2WFjzHxVXy" version="24.4.13" type="github">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
     <mxGraphModel dx="712" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,13 +34,23 @@
             <mxPoint x="400" y="55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-84" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;메뉴항목조회&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="220" y="85" width="110" height="45" as="geometry" />
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-84" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;메뉴항목&lt;/b&gt;&lt;div&gt;&lt;b&gt;조회&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
+          <mxGeometry x="220" y="70" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-85" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;exitX=0.955;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9gbs9tgWKVbymUqdHYrf-2" source="9gbs9tgWKVbymUqdHYrf-12" target="9gbs9tgWKVbymUqdHYrf-84">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="134" y="120" as="sourcePoint" />
             <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-86" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;메뉴항목&lt;/b&gt;&lt;div&gt;&lt;b&gt;수정&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
+          <mxGeometry x="210" y="130" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-87" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=open;startFill=0;exitX=0.964;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="9gbs9tgWKVbymUqdHYrf-2" source="9gbs9tgWKVbymUqdHYrf-12" target="9gbs9tgWKVbymUqdHYrf-86">
+          <mxGeometry x="0.2461" y="12" width="160" relative="1" as="geometry">
+            <mxPoint x="155" y="123" as="sourcePoint" />
+            <mxPoint x="230" y="110" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-3" value="소비자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
