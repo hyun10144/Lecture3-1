@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T12:05:37.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oTckq9Fde0SJbjim568W" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T12:09:31.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j8Clmzul253gBeHYQpai" version="24.4.13" type="github">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
-    <mxGraphModel dx="555" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="838" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,8 +209,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-173" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달상태&lt;/b&gt;&lt;div&gt;&lt;b&gt;업데이트&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-72">
+          <mxGeometry x="266" y="210" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-174" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="9gbs9tgWKVbymUqdHYrf-72" target="9gbs9tgWKVbymUqdHYrf-173" source="9gbs9tgWKVbymUqdHYrf-24">
+          <mxGeometry x="0.1402" y="9" width="160" relative="1" as="geometry">
+            <mxPoint x="191" y="215" as="sourcePoint" />
+            <mxPoint x="306" y="255" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-74" value="배달의 민족 시스템" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="420" width="730" height="310" as="geometry" />
+          <mxGeometry x="140" y="420" width="730" height="330" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-18" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;음식조회&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-74">
           <mxGeometry x="220" y="110" width="110" height="45" as="geometry" />
@@ -285,6 +295,26 @@
             <mxPoint x="144" y="198" as="sourcePoint" />
             <mxPoint x="190" y="215" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-177" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;평점 작성&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-74">
+          <mxGeometry x="230" y="240" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-178" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9gbs9tgWKVbymUqdHYrf-74" target="9gbs9tgWKVbymUqdHYrf-177" source="9gbs9tgWKVbymUqdHYrf-21">
+          <mxGeometry x="-0.0505" y="9" width="160" relative="1" as="geometry">
+            <mxPoint x="180" y="264" as="sourcePoint" />
+            <mxPoint x="123" y="265" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-179" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;댓글 작성&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-74">
+          <mxGeometry x="159.99999999999997" y="280" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-180" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9gbs9tgWKVbymUqdHYrf-74" target="9gbs9tgWKVbymUqdHYrf-179" source="9gbs9tgWKVbymUqdHYrf-21">
+          <mxGeometry x="-1" y="-26" width="160" relative="1" as="geometry">
+            <mxPoint x="109.85345032310934" y="323.48620774215397" as="sourcePoint" />
+            <mxPoint x="186.14999999999998" y="270" as="targetPoint" />
+            <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endFill=0;curved=1;" edge="1" parent="1" target="9gbs9tgWKVbymUqdHYrf-17">
@@ -439,6 +469,12 @@
             <Array as="points">
               <mxPoint x="810" y="890" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-172" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9gbs9tgWKVbymUqdHYrf-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="940" as="sourcePoint" />
+            <mxPoint x="202" y="928" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
