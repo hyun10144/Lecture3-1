@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T09:28:33.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yKj9KfLWRBOc3dKyAzYh" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T09:30:51.281Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JB5P-I89bEogwPcqVZv5" version="24.4.13" type="github">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
     <mxGraphModel dx="712" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,18 +36,6 @@
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-21" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;리뷰작성&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
           <mxGeometry x="50" y="592" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-22" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달요청 수락&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="770" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-23" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달경로 확인&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="830" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-24" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달완료 보고&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="890" width="110" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-25" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;리뷰작성&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
-          <mxGeometry x="50" y="950" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-26" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;주문변경 요청&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
           <mxGeometry x="200" y="490" width="110" height="45" as="geometry" />
@@ -113,6 +101,24 @@
             <mxPoint x="710" y="140" as="sourcePoint" />
             <mxPoint x="916" y="146" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-72" value="배민 커넥트 시스템" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="760" width="730" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-73" value="&lt;div&gt;UC-01&lt;/div&gt;로그인" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-72">
+          <mxGeometry x="50" y="40" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-25" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;리뷰작성&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-72">
+          <mxGeometry x="50" y="300" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-24" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달완료 보고&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-72">
+          <mxGeometry x="50" y="230" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-23" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달경로 확인&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-72">
+          <mxGeometry x="50" y="170" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-22" value="&lt;div&gt;&lt;b&gt;UC-0n&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달요청 수락&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-72">
+          <mxGeometry x="50" y="110" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
