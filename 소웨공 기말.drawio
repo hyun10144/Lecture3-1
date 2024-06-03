@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T12:31:12.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZDOBWS1B5diWEMwKJk1w" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-03T12:31:21.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wnsGHQnL58M_qIiIXnvW" version="24.4.13" type="github" pages="3">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
     <mxGraphModel dx="1047" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -836,7 +836,7 @@
             <mxPoint x="50" y="338" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eg34-VNAxaQ3RA5lQizQ-28" value="주문요청 전달" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eg34-VNAxaQ3RA5lQizQ-27">
+        <mxCell id="eg34-VNAxaQ3RA5lQizQ-28" value="주문 요청 전달" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eg34-VNAxaQ3RA5lQizQ-27">
           <mxGeometry x="-0.4058" y="1" relative="1" as="geometry">
             <mxPoint x="-172" y="-11" as="offset" />
           </mxGeometry>
@@ -850,7 +850,7 @@
             <mxPoint x="382.75" y="43.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="caF3DM-1-BcTO6Vw7JB_-10" value="주문정보 저장" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="caF3DM-1-BcTO6Vw7JB_-9">
+        <mxCell id="caF3DM-1-BcTO6Vw7JB_-10" value="메뉴 등록 및 관리" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="caF3DM-1-BcTO6Vw7JB_-9">
           <mxGeometry x="-0.4058" y="1" relative="1" as="geometry">
             <mxPoint x="95" y="-12" as="offset" />
           </mxGeometry>
