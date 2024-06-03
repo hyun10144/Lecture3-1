@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T12:31:21.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wnsGHQnL58M_qIiIXnvW" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-03T12:32:52.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1hVzZVDY7eoEmaw6TjHS" version="24.4.13" type="github" pages="3">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
     <mxGraphModel dx="1047" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -785,7 +785,7 @@
           <mxGeometry x="40" y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nwc7FYW5oUxq-fBeBSEd-3" value="배달원" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
-          <mxGeometry x="550" y="60" width="30" height="60" as="geometry" />
+          <mxGeometry x="1270" y="70" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DyBW-JpIsDllqCDkyPT2-1" value="주문 및&amp;nbsp; 배달시스템&lt;div&gt;(배달의 민족 플랫폼)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
           <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
@@ -797,7 +797,7 @@
           <mxGeometry x="406.25" y="160" width="7.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eg34-VNAxaQ3RA5lQizQ-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
-          <mxGeometry x="561.25" y="155" width="7.5" height="210" as="geometry" />
+          <mxGeometry x="1140" y="129" width="7.5" height="210" as="geometry" />
         </mxCell>
         <mxCell id="eg34-VNAxaQ3RA5lQizQ-17" value="" style="endArrow=block;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;endFill=0;entryX=0.208;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="6QMSgQDPZxNpxetmHF1K-1" target="eg34-VNAxaQ3RA5lQizQ-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -842,18 +842,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eg34-VNAxaQ3RA5lQizQ-31" value="alt 주문 수락시" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
-          <mxGeometry x="30" y="400" width="890" height="180" as="geometry" />
+          <mxGeometry x="30" y="360" width="890" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="caF3DM-1-BcTO6Vw7JB_-9" value="" style="endArrow=block;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;endFill=0;entryX=0.208;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eg34-VNAxaQ3RA5lQizQ-31">
+        <mxCell id="caF3DM-1-BcTO6Vw7JB_-9" value="" style="endArrow=block;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;endFill=0;entryX=0.275;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eg34-VNAxaQ3RA5lQizQ-31" target="caF3DM-1-BcTO6Vw7JB_-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="29.75" y="43.5" as="sourcePoint" />
-            <mxPoint x="382.75" y="43.5" as="targetPoint" />
+            <mxPoint x="383" y="44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="caF3DM-1-BcTO6Vw7JB_-10" value="메뉴 등록 및 관리" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="caF3DM-1-BcTO6Vw7JB_-9">
           <mxGeometry x="-0.4058" y="1" relative="1" as="geometry">
             <mxPoint x="95" y="-12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="caF3DM-1-BcTO6Vw7JB_-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="eg34-VNAxaQ3RA5lQizQ-31">
+          <mxGeometry x="682.75" y="44" width="7.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S-wxV0cbkrr2JjaqQEMl-2" value="" style="endArrow=none;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;endFill=0;entryX=0.208;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=0;" edge="1" parent="6QMSgQDPZxNpxetmHF1K-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -916,6 +919,9 @@
           <mxGeometry x="-0.4058" y="1" relative="1" as="geometry">
             <mxPoint x="31" y="-9" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="caF3DM-1-BcTO6Vw7JB_-11" value="&amp;lt;&amp;lt;actor&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;결제 시스템&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
+          <mxGeometry x="510" y="60" width="113" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eg34-VNAxaQ3RA5lQizQ-19" value="" style="endArrow=block;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
