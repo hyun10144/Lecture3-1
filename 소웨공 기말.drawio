@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T02:02:29.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0zb01kjJ429d2JR0n0cN" version="24.4.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:17:48.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="css8TySo0g8fHB6_HiV5" version="24.4.13" type="github" pages="3">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
     <mxGraphModel dx="1047" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -768,12 +768,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t8zUlWN-pKXVNBNJ9Eb9" name="페이지-3">
-    <mxGraphModel dx="1010" dy="927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1759" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6QMSgQDPZxNpxetmHF1K-1" value="Sequence diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="20" y="200" width="790" height="490" as="geometry" />
+          <mxGeometry x="20" y="20" width="790" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwc7FYW5oUxq-fBeBSEd-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
+          <mxGeometry x="70" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwc7FYW5oUxq-fBeBSEd-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
+          <mxGeometry x="180" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwc7FYW5oUxq-fBeBSEd-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
+          <mxGeometry x="290" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwc7FYW5oUxq-fBeBSEd-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
+          <mxGeometry x="379" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwc7FYW5oUxq-fBeBSEd-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="6QMSgQDPZxNpxetmHF1K-1">
+          <mxGeometry x="480" y="60" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
