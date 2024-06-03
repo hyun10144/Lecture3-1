@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T00:29:03.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="bMc4JovUp5vnTq95jdJA" version="24.4.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-03T00:31:53.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="uC6Bj3VpcZ1KBho7vZjj" version="24.4.13" type="github" pages="2">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
     <mxGraphModel dx="1843" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="9gbs9tgWKVbymUqdHYrf-73" value="&lt;div&gt;UC-01&lt;/div&gt;로그인" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fontStyle=1" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
           <mxGeometry x="50" y="40" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-24" value="&lt;div&gt;&lt;b&gt;UC-31&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달완료 보고&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#9673a6;strokeWidth=2;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-24" value="&lt;div&gt;&lt;b&gt;UC-32&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달완료 보고&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#9673a6;strokeWidth=2;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
           <mxGeometry x="50" y="210" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-23" value="&lt;div&gt;&lt;b&gt;UC-28&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달내용 확인&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#9673a6;strokeWidth=2;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
@@ -112,7 +112,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-173" value="&lt;div&gt;&lt;b&gt;UC-32&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달상태&lt;/b&gt;&lt;div&gt;&lt;b&gt;업데이트&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#9673a6;strokeWidth=2;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-173" value="&lt;div&gt;&lt;b&gt;UC-33&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달상태&lt;/b&gt;&lt;div&gt;&lt;b&gt;업데이트&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#9673a6;strokeWidth=2;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
           <mxGeometry x="266" y="210" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-174" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="9gbs9tgWKVbymUqdHYrf-72" source="9gbs9tgWKVbymUqdHYrf-24" target="9gbs9tgWKVbymUqdHYrf-173" edge="1">
@@ -125,10 +125,10 @@
         <mxCell id="9gbs9tgWKVbymUqdHYrf-184" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="9gbs9tgWKVbymUqdHYrf-72" source="9gbs9tgWKVbymUqdHYrf-181" target="9gbs9tgWKVbymUqdHYrf-183" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-181" value="&lt;div&gt;&lt;b&gt;UC-29&lt;/b&gt;&lt;/div&gt;&lt;b&gt;조리요청&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-181" value="&lt;div&gt;&lt;b&gt;UC-30&lt;/b&gt;&lt;/div&gt;&lt;b&gt;조리요청&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
           <mxGeometry x="180" y="160" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-183" value="&lt;div&gt;&lt;b&gt;UC-30&lt;/b&gt;&lt;/div&gt;&lt;b&gt;픽업완료&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#9673a6;strokeWidth=2;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-183" value="&lt;div&gt;&lt;b&gt;UC-31&lt;/b&gt;&lt;/div&gt;&lt;b&gt;픽업완료&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#9673a6;strokeWidth=2;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
           <mxGeometry x="370" y="165" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="9gbs9tgWKVbymUqdHYrf-185" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="9gbs9tgWKVbymUqdHYrf-72" source="9gbs9tgWKVbymUqdHYrf-24" target="9gbs9tgWKVbymUqdHYrf-186" edge="1">
@@ -138,7 +138,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9gbs9tgWKVbymUqdHYrf-186" value="&lt;div&gt;&lt;b&gt;UC-33&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달완료&lt;/b&gt;&lt;div&gt;&lt;b&gt;사진전송&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
+        <mxCell id="9gbs9tgWKVbymUqdHYrf-186" value="&lt;div&gt;&lt;b&gt;UC-34&lt;/b&gt;&lt;/div&gt;&lt;b&gt;배달완료&lt;/b&gt;&lt;div&gt;&lt;b&gt;사진전송&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="9gbs9tgWKVbymUqdHYrf-72" vertex="1">
           <mxGeometry x="260" y="280" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Ge2zcDVM5h-hTnrPH97W-1" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;dashed=1;rounded=0;entryX=0.354;entryY=0.972;entryDx=0;entryDy=0;startArrow=open;startFill=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="9gbs9tgWKVbymUqdHYrf-72" source="9gbs9tgWKVbymUqdHYrf-183" target="9gbs9tgWKVbymUqdHYrf-164">
@@ -557,7 +557,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qEkzPwBGLJ4dQugB4kmV-4" value="&lt;div&gt;&lt;b&gt;UC-12&lt;/b&gt;&lt;/div&gt;&lt;b&gt;주문 내역 저장&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
+        <mxCell id="qEkzPwBGLJ4dQugB4kmV-4" value="&lt;div&gt;&lt;b&gt;UC-35&lt;/b&gt;&lt;/div&gt;&lt;b&gt;주문 내역 저장&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=none;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="9gbs9tgWKVbymUqdHYrf-2">
           <mxGeometry x="278" y="293" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="qEkzPwBGLJ4dQugB4kmV-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="9gbs9tgWKVbymUqdHYrf-2" source="9gbs9tgWKVbymUqdHYrf-13" target="qEkzPwBGLJ4dQugB4kmV-4">
