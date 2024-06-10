@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T04:13:13.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-p4qD1bo-56EMl9c7PDf" version="24.4.13" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-06-10T04:14:01.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="cU3K0eC_fg70wueVi7_5" version="24.4.13" type="github" pages="3">
   <diagram name="페이지-1" id="0730mNVhQJwYagWhDFm0">
     <mxGraphModel dx="2170" dy="1103" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -614,7 +614,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZXHx0e3qkV1wo_oc1DYm" name="페이지-2">
-    <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -736,184 +736,30 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlPorKUGCkd39hPWp0iB-1" value="내역 관리 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Fxs-fbrym_Jv-4ePKLYf-1">
+        <mxCell id="VlPorKUGCkd39hPWp0iB-1" value="내역 관리 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Fxs-fbrym_Jv-4ePKLYf-1" vertex="1">
           <mxGeometry x="320" y="447" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VlPorKUGCkd39hPWp0iB-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Fxs-fbrym_Jv-4ePKLYf-1" source="VlPorKUGCkd39hPWp0iB-1" target="Fxs-fbrym_Jv-4ePKLYf-10">
+        <mxCell id="VlPorKUGCkd39hPWp0iB-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="Fxs-fbrym_Jv-4ePKLYf-1" source="VlPorKUGCkd39hPWp0iB-1" target="Fxs-fbrym_Jv-4ePKLYf-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="264" y="437" as="sourcePoint" />
             <mxPoint x="364" y="296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlPorKUGCkd39hPWp0iB-3" value="사용자에게&amp;nbsp;&lt;div&gt;주문 내역 데이터를&amp;nbsp;&lt;/div&gt;&lt;div&gt;전송&amp;nbsp; 및 업데이트&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VlPorKUGCkd39hPWp0iB-2">
+        <mxCell id="VlPorKUGCkd39hPWp0iB-3" value="사용자에게&amp;nbsp;&lt;div&gt;주문 내역 데이터를&amp;nbsp;&lt;/div&gt;&lt;div&gt;전송&amp;nbsp; 및 업데이트&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VlPorKUGCkd39hPWp0iB-2" vertex="1" connectable="0">
           <mxGeometry x="0.0853" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcT61DT3sritrYATnmiv-2" value="AI 배차 추천 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="Fxs-fbrym_Jv-4ePKLYf-1">
+        <mxCell id="NcT61DT3sritrYATnmiv-2" value="AI 배차 추천 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="Fxs-fbrym_Jv-4ePKLYf-1" vertex="1">
           <mxGeometry x="520" y="372" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NcT61DT3sritrYATnmiv-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.797;entryY=0.91;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Fxs-fbrym_Jv-4ePKLYf-1" source="NcT61DT3sritrYATnmiv-2" target="Fxs-fbrym_Jv-4ePKLYf-10">
+        <mxCell id="NcT61DT3sritrYATnmiv-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.797;entryY=0.91;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Fxs-fbrym_Jv-4ePKLYf-1" source="NcT61DT3sritrYATnmiv-2" target="Fxs-fbrym_Jv-4ePKLYf-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="367" y="444" as="sourcePoint" />
             <mxPoint x="483" y="297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NcT61DT3sritrYATnmiv-4" value="배달원에게&amp;nbsp;&lt;div&gt;적절한 배차를 요청&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NcT61DT3sritrYATnmiv-3">
-          <mxGeometry x="0.0853" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram name="비즈니스 컨텍스트" id="bm1RfXbFjUEP6doD3rDH">
-    <mxGraphModel dx="1674" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-0" />
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-1" parent="b8He2VJhg4mfOnKQgQRH-0" />
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-2" value="1.2 Business Context Diagram" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=200;height=30;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-1">
-          <mxGeometry x="40" y="40" width="770" height="540" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-3" value="소비자" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="320" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-4" value="음식점" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="132" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-5" value="배달원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-6" value="고객지원" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="611" y="167" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-7" value="GPS 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="611" y="274" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-8" value="결제 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="45" y="179" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-9" value="인증 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="45" y="274" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-10" value="주문 및 배달 시스템" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;shadow=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="320" y="210" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.77;exitY=0.07;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-10" target="b8He2VJhg4mfOnKQgQRH-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="270" as="sourcePoint" />
-            <mxPoint x="400" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-12" value="배차요청 및 배달완료 보고" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-11">
-          <mxGeometry x="0.1645" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-10" target="b8He2VJhg4mfOnKQgQRH-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="442" y="236" as="sourcePoint" />
-            <mxPoint x="560" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-14" value="서비스 이용자,&lt;div&gt;음식 주문 및 조회&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-13">
-          <mxGeometry x="0.1733" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.277;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-10" target="b8He2VJhg4mfOnKQgQRH-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="452" y="246" as="sourcePoint" />
-            <mxPoint x="570" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-16" value="메뉴 게시 및 주문 수락&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-15">
-          <mxGeometry x="-0.0967" y="1" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-10" target="b8He2VJhg4mfOnKQgQRH-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="345" y="234" as="sourcePoint" />
-            <mxPoint x="220" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-18" value="&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;결제 처리 및 완료&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-17">
-          <mxGeometry x="-0.224" y="1" relative="1" as="geometry">
-            <mxPoint x="-12" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.95;entryY=0.26;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-6" target="b8He2VJhg4mfOnKQgQRH-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="244" as="sourcePoint" />
-            <mxPoint x="230" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-20" value="시스템 오류 해결지원" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-19">
-          <mxGeometry x="0.0025" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.043;exitY=0.69;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-10" target="b8He2VJhg4mfOnKQgQRH-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="365" y="254" as="sourcePoint" />
-            <mxPoint x="240" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-22" value="로그인 인증 처리 및&amp;nbsp;&lt;div&gt;사용자 정보 연결&amp;nbsp;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-21">
-          <mxGeometry x="-0.1632" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.95;entryY=0.71;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-7" target="b8He2VJhg4mfOnKQgQRH-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="375" y="264" as="sourcePoint" />
-            <mxPoint x="250" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-24" value="배달원에게&amp;nbsp;&lt;div&gt;주소관련 정보 전달&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-23">
-          <mxGeometry x="-0.0349" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-25" value="메시지발송 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="132" y="372" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-26" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-25" target="b8He2VJhg4mfOnKQgQRH-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="373" y="430" as="sourcePoint" />
-            <mxPoint x="373" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-27" value="사용자에게&amp;nbsp;&lt;div&gt;메시지 전송&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-26">
-          <mxGeometry x="0.0853" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-28" value="내역 관리 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="320" y="447" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-28" target="b8He2VJhg4mfOnKQgQRH-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="264" y="437" as="sourcePoint" />
-            <mxPoint x="364" y="296" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-30" value="사용자에게&amp;nbsp;&lt;div&gt;주문 내역 데이터를&amp;nbsp;&lt;/div&gt;&lt;div&gt;전송&amp;nbsp; 및 업데이트&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-29">
-          <mxGeometry x="0.0853" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-31" value="AI 배차 추천 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="b8He2VJhg4mfOnKQgQRH-2">
-          <mxGeometry x="520" y="372" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.797;entryY=0.91;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="b8He2VJhg4mfOnKQgQRH-2" source="b8He2VJhg4mfOnKQgQRH-31" target="b8He2VJhg4mfOnKQgQRH-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="367" y="444" as="sourcePoint" />
-            <mxPoint x="483" y="297" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b8He2VJhg4mfOnKQgQRH-33" value="배달원에게&amp;nbsp;&lt;div&gt;적절한 배차를 요청&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b8He2VJhg4mfOnKQgQRH-32">
+        <mxCell id="NcT61DT3sritrYATnmiv-4" value="배달원에게&amp;nbsp;&lt;div&gt;적절한 배차를 요청&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NcT61DT3sritrYATnmiv-3" vertex="1" connectable="0">
           <mxGeometry x="0.0853" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
