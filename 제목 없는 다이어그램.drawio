@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n9FGADXHsb4txi5t6AIW" name="유스케이스-1">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,7 +304,7 @@
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-16" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;정기 주차 등록 관리 기능(관리자)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6553&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="860" y="100" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-17" value="&lt;b&gt;사용자&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-17" value="&lt;b&gt;관리자&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="190" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-18" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#000000;" vertex="1" parent="1">
@@ -313,7 +313,7 @@
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-19" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;결제 조회 및 승인 기능(관리자)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6553&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="860" y="350" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-20" value="&lt;b&gt;사용자&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-20" value="&lt;b&gt;관리자&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="440" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
@@ -322,7 +322,7 @@
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-22" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;주차 요금 결제 기능(사용자)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6553&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="860" y="600" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-23" value="&lt;b&gt;사용자&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-23" value="&lt;b&gt;관리자&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="690" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-24" value="&lt;p style=&quot;mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;&quot; class=&quot;0&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;MPS&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt; background-color: initial;&quot;&gt;(Moohan Parking Secretary)&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6647&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#A9C4EB;strokeColor=#000000;" vertex="1" parent="1">
