@@ -125,7 +125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="n9FGADXHsb4txi5t6AIW" name="유스케이스-1">
-    <mxGraphModel dx="819" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -319,17 +319,14 @@
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="860" y="600" width="640" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-22" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;주차 요금 결제 기능(사용자)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6553&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="860" y="600" width="180" height="30" as="geometry" />
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-22" value="&lt;p class=&quot;0&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;실시간 데이터 모니터링 기능(관리자)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6553&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="860" y="600" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-23" value="&lt;b&gt;관리자&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="690" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-24" value="&lt;p style=&quot;mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;&quot; class=&quot;0&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;MPS&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt; background-color: initial;&quot;&gt;(Moohan Parking Secretary)&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6647&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#A9C4EB;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1083" y="180" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-25" value="&lt;p style=&quot;mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;&quot; class=&quot;0&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt; background-color: initial;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RPY&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;(RaspberryPi Yolo)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6647&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="180" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-26" value="&lt;p style=&quot;mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;&quot; class=&quot;0&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;MPS&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt; background-color: initial;&quot;&gt;(Moohan Parking Secretary)&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6647&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#A9C4EB;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1080" y="430" width="120" height="70" as="geometry" />
@@ -340,46 +337,28 @@
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-28" value="&lt;p style=&quot;mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;&quot; class=&quot;0&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;MPS DB&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6647&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1330" y="430" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;3. 주차 탐색 &amp;amp; 주차장 선택&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;1. 정기주차 신청 목록 조회&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" y="-10" relative="1" as="geometry">
-            <mxPoint x="960" y="200" as="sourcePoint" />
-            <mxPoint x="1066" y="200" as="targetPoint" />
+            <mxPoint x="960" y="181" as="sourcePoint" />
+            <mxPoint x="1066" y="181" as="targetPoint" />
             <mxPoint x="-10" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;2. 주차 공간 탐지 이미지&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;&amp;amp; 주차 공간 좌표 정보&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
-          <mxGeometry x="-1" y="-35" relative="1" as="geometry">
-            <mxPoint x="1210" y="200" as="sourcePoint" />
-            <mxPoint x="1320" y="200.42000000000002" as="targetPoint" />
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;2. 정기 주차 신청 목록&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="1206" y="183" as="sourcePoint" />
+            <mxPoint x="1316" y="183.42000000000002" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-31" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;4. 주차장 시뮬레이션 시각화&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
-          <mxGeometry x="-0.9982" y="-25" relative="1" as="geometry">
-            <mxPoint x="950" y="224.58" as="sourcePoint" />
-            <mxPoint x="1060" y="225.00000000000003" as="targetPoint" />
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-31" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;3. 정기주차 신청 목록 시각화&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry x="-0.9622" y="-20" relative="1" as="geometry">
+            <mxPoint x="948" y="188.66000000000003" as="sourcePoint" />
+            <mxPoint x="1058" y="189.08000000000004" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-32" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1420" y="180" as="sourcePoint" />
-            <mxPoint x="1460" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1410" y="170" />
-              <mxPoint x="1420" y="150" />
-              <mxPoint x="1450" y="140" />
-              <mxPoint x="1480" y="160" />
-              <mxPoint x="1480" y="190" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1. 주차장 원본 이미지 전달&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OkYUTyAa0OUK5A5MJBp4-32">
-          <mxGeometry x="0.0493" y="3" relative="1" as="geometry">
-            <mxPoint x="-34" y="-15" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OkYUTyAa0OUK5A5MJBp4-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1. 집주소와 소요 시간 입력&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;1. 신청자 id, 서류 파일 요청&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" y="-10" relative="1" as="geometry">
             <mxPoint x="964" y="440" as="sourcePoint" />
             <mxPoint x="1070" y="440" as="targetPoint" />
@@ -395,15 +374,15 @@
         </mxCell>
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;2. 사용자 id, 집주소, &lt;br&gt;소요 시간 저장&lt;/font&gt;&lt;/b&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.8113" relative="1" as="geometry">
-            <mxPoint x="1210" y="444" as="sourcePoint" />
-            <mxPoint x="1316" y="444" as="targetPoint" />
+            <mxPoint x="1490" y="474.66" as="sourcePoint" />
+            <mxPoint x="1596" y="474.66" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OkYUTyAa0OUK5A5MJBp4-37" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;3. 사용자 id, 선별 여부,&amp;nbsp; &lt;br&gt;제출서류 정보&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
           <mxGeometry x="-1" y="-35" relative="1" as="geometry">
-            <mxPoint x="1210" y="461.5" as="sourcePoint" />
-            <mxPoint x="1320" y="461.92" as="targetPoint" />
+            <mxPoint x="1530" y="360" as="sourcePoint" />
+            <mxPoint x="1640" y="360.42" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -450,6 +429,51 @@
             <mxPoint x="1210" y="714.5" as="sourcePoint" />
             <mxPoint x="1316" y="714.5" as="targetPoint" />
             <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-49" value="&lt;p style=&quot;mso-pagination:none;text-autospace:none;mso-padding-alt:0pt 0pt 0pt 0pt;&quot; class=&quot;0&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;맑은 고딕&amp;quot;; letter-spacing: -0.4pt;&quot; lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;MPS DB&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;div data-jsonlen=&quot;6647&quot; data-hjsonver=&quot;1.0&quot; class=&quot;hwp_editor_board_content&quot; id=&quot;hwpEditorBoardContent&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-51" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;4. 50명 선정자 승인&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-34" relative="1" as="geometry">
+            <mxPoint x="960" y="211" as="sourcePoint" />
+            <mxPoint x="1066" y="211" as="targetPoint" />
+            <mxPoint x="-10" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-52" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;5. 선정자 목록, 서류 업로드 &lt;br&gt;승인 정보 저장&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-32" relative="1" as="geometry">
+            <mxPoint x="1215" y="193.66" as="sourcePoint" />
+            <mxPoint x="1321" y="193.66" as="targetPoint" />
+            <mxPoint x="-10" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-53" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;6. 서류 확인&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry x="-0.9805" y="-19" relative="1" as="geometry">
+            <mxPoint x="949" y="232" as="sourcePoint" />
+            <mxPoint x="1059" y="232.42000000000007" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;7. 최종 승인 정보 저장&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-23" relative="1" as="geometry">
+            <mxPoint x="1216" y="243" as="sourcePoint" />
+            <mxPoint x="1322" y="243" as="targetPoint" />
+            <mxPoint x="-10" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-55" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;6. 신청자 id, 서류 파일&lt;/b&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=none;endFill=0;endSize=6;align=left;rounded=0;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry x="-0.9988" y="-18" relative="1" as="geometry">
+            <mxPoint x="1207" y="224.31" as="sourcePoint" />
+            <mxPoint x="1317" y="224.73000000000008" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OkYUTyAa0OUK5A5MJBp4-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;6. 최종 승인 정보 입력&lt;/b&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;endSize=6;align=left;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="-22" relative="1" as="geometry">
+            <mxPoint x="960" y="251" as="sourcePoint" />
+            <mxPoint x="1066" y="251" as="targetPoint" />
+            <mxPoint x="-10" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
