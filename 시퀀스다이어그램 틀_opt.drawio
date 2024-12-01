@@ -1165,10 +1165,508 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1VWVyRUf98OeWNogHYiy" name="관리자 15, 16, 17">
-    <mxGraphModel dx="1068" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1539" dy="-333" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-1" value="&lt;div&gt;실시간 주차 공간&amp;nbsp;&lt;/div&gt;모니터링 결과&lt;br&gt;&lt;div&gt;&lt;div&gt;(객체 탐지된 이미지,&amp;nbsp;&lt;/div&gt;&lt;div&gt;빈 주차 공간 수)&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2652" relative="1" as="geometry">
+            <mxPoint x="468" y="1526.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="547.25" y="1526" />
+            </Array>
+            <mxPoint x="650" y="1527" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-3" value="실시간 주차 공간 모니터링 요청&lt;div&gt;(주차장 이름)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="KzjU5pk_Y9fvrwEGiwb1-10">
+          <mxGeometry x="0.036" relative="1" as="geometry">
+            <mxPoint x="89" y="1392" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="174" y="1392" />
+            </Array>
+            <mxPoint x="259.5" y="1392" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-5" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
+          <mxGeometry x="39" y="1292" width="471" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-6" value="&lt;div&gt;실시간 주차 공간 모니터링 요청&lt;/div&gt;&lt;div&gt;(주차장 이름)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="136" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="315" y="136" />
+            </Array>
+            <mxPoint x="406.25" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-7" value="&lt;font color=&quot;#99ccff&quot;&gt;[로그인상태=YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-5">
+          <mxGeometry x="46.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-8" value="실시간 주차 공간 모니터링&lt;div&gt;화면 요청&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-5" target="KzjU5pk_Y9fvrwEGiwb1-15">
+          <mxGeometry x="-0.5085" relative="1" as="geometry">
+            <mxPoint x="53.25" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="138.25" y="50" />
+            </Array>
+            <mxPoint x="223.75" y="50" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-4" value="실시간 주차 공간 모니터링&amp;nbsp;&lt;div&gt;조회 화면&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="233.75" y="88" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="88" />
+            </Array>
+            <mxPoint x="410" y="88" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-9" value="실시간 주차 공간 모니터링" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="217.75" y="1242" width="100" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-9">
+          <mxGeometry x="45" y="120" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-11" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="77.75" y="1212" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-12" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="40.25" y="1282" width="100" height="485" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-12">
+          <mxGeometry x="45" y="50" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-14" value="서버 API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="400.25" y="1242" width="100" height="526" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-14">
+          <mxGeometry x="45" y="100" width="10" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-16" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="608.25" y="1282" width="100" height="483" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-16">
+          <mxGeometry x="45.25" y="130" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-18" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644.75" y="1212" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-19" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1501" width="420" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-20" value="에러메시지&lt;div&gt;(&quot;모니터링 조회 실패&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-19" target="KzjU5pk_Y9fvrwEGiwb1-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="174" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="192.97000000000003" y="174" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-21" value="실시간 주차 공간 모니터링&lt;div&gt;&amp;nbsp;이미지 시각화&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="27.75" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="114" y="60" />
+            </Array>
+            <mxPoint x="189" y="60" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-22" value="&lt;font color=&quot;#99ccff&quot;&gt;[유효한 입력 = YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-19">
+          <mxGeometry x="59.75" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-23" value="reply data&lt;div&gt;(result = &quot;성공&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="297.88" y="40" />
+            </Array>
+            <mxPoint x="372.88" y="40" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-24" value="&lt;span style=&quot;color: rgb(153, 204, 255);&quot;&gt;[유효한 입력 = NO]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-19">
+          <mxGeometry x="50" y="99" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-25" value="reply data&lt;div&gt;(result = &quot;실패&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="129" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="298.88" y="129" />
+            </Array>
+            <mxPoint x="373.88" y="129" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71.62" y="1592" as="sourcePoint" />
+            <mxPoint x="487" y="1592" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-27" value="&lt;div&gt;실시간 주차 공간&amp;nbsp;&lt;/div&gt;&lt;div&gt;모니터링 요청&lt;/div&gt;&lt;div&gt;(주차장 이름)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.244" relative="1" as="geometry">
+            <mxPoint x="457" y="1440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="542" y="1440" />
+            </Array>
+            <mxPoint x="654.75" y="1440" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-28" value="return data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2652" relative="1" as="geometry">
+            <mxPoint x="478" y="2164.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="557.25" y="2164" />
+            </Array>
+            <mxPoint x="660" y="2165" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-29" value="주차 공간 탐지 모델&amp;nbsp;&lt;div&gt;실행 상태 변경 버튼 클릭&lt;/div&gt;&lt;div&gt;(명령 코드)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="KzjU5pk_Y9fvrwEGiwb1-36">
+          <mxGeometry x="0.036" relative="1" as="geometry">
+            <mxPoint x="99" y="2030" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="184" y="2030" />
+            </Array>
+            <mxPoint x="269.5" y="2030" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-30" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
+          <mxGeometry x="49" y="1930" width="471" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-31" value="주차 공간 탐지 모델&amp;nbsp;&lt;div&gt;실행 상태 변경 요청&lt;/div&gt;&lt;div&gt;(명령 코드)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="136" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="315" y="136" />
+            </Array>
+            <mxPoint x="406.25" y="136" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-32" value="&lt;font color=&quot;#99ccff&quot;&gt;[로그인상태=YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-30">
+          <mxGeometry x="46.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-33" value="주차 공간 탐지 모델 조회&lt;div&gt;화면 요청&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-30" target="KzjU5pk_Y9fvrwEGiwb1-41">
+          <mxGeometry x="-0.5085" relative="1" as="geometry">
+            <mxPoint x="53.25" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="138.25" y="50" />
+            </Array>
+            <mxPoint x="223.75" y="50" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-34" value="주차 공간 탐지 모델 조회 화면" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="233.75" y="88" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="88" />
+            </Array>
+            <mxPoint x="410" y="88" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-35" value="주차 공간 탐지&amp;nbsp;&lt;div&gt;모델 조회&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="227.75" y="1880" width="100" height="525" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-35">
+          <mxGeometry x="45" y="120" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-37" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87.75" y="1850" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-38" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="50.25" y="1920" width="100" height="485" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-39" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-38">
+          <mxGeometry x="45" y="50" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-40" value="서버 API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="410.25" y="1880" width="100" height="526" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-40">
+          <mxGeometry x="45" y="100" width="10" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-42" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="618.25" y="1920" width="100" height="483" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-42">
+          <mxGeometry x="45.25" y="130" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-44" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654.75" y="1850" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-45" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2139" width="420" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-46" value="에러메시지&lt;div&gt;(&quot;실행 상태 변경 실패&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-45" target="KzjU5pk_Y9fvrwEGiwb1-39">
+          <mxGeometry x="0.0017" relative="1" as="geometry">
+            <mxPoint x="30" y="174" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="192.97000000000003" y="174" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-47" value="실시간 주차 공간 모니터링&lt;div&gt;&amp;nbsp;이미지 시각화&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="27.75" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="114" y="60" />
+            </Array>
+            <mxPoint x="189" y="60" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-48" value="&lt;font color=&quot;#99ccff&quot;&gt;[상태 변경 요청 = YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-45">
+          <mxGeometry x="40" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-49" value="reply data&lt;div&gt;(result = &quot;성공&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="297.88" y="40" />
+            </Array>
+            <mxPoint x="372.88" y="40" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-50" value="&lt;span style=&quot;color: rgb(153, 204, 255);&quot;&gt;[상태 변경 요청 = NO]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KzjU5pk_Y9fvrwEGiwb1-45">
+          <mxGeometry x="45" y="99" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-51" value="reply data&lt;div&gt;(result = &quot;실패&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="KzjU5pk_Y9fvrwEGiwb1-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="129" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="298.88" y="129" />
+            </Array>
+            <mxPoint x="373.88" y="129" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81.62" y="2230" as="sourcePoint" />
+            <mxPoint x="497" y="2230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzjU5pk_Y9fvrwEGiwb1-53" value="주차 공간 탐지 모델&amp;nbsp;&lt;div&gt;실행 상태 변경 요청&lt;/div&gt;&lt;div&gt;(명령 코드)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.244" relative="1" as="geometry">
+            <mxPoint x="467" y="2078" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="552" y="2078" />
+            </Array>
+            <mxPoint x="664.75" y="2078" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-52" value="return data" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.2652" relative="1" as="geometry">
+            <mxPoint x="477" y="2740.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="556.25" y="2740" />
+            </Array>
+            <mxPoint x="659" y="2741" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-54" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
+          <mxGeometry x="47" y="2596" width="471" height="694" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-56" value="&lt;font color=&quot;#99ccff&quot;&gt;[로그인상태=YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QsC5FVJO4Tk5U3wjnek2-54">
+          <mxGeometry x="46.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-57" value="주차량 분석 및 통계 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="QsC5FVJO4Tk5U3wjnek2-54" target="QsC5FVJO4Tk5U3wjnek2-65">
+          <mxGeometry x="-0.5071" relative="1" as="geometry">
+            <mxPoint x="53.25" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="138.25" y="50" />
+            </Array>
+            <mxPoint x="223.75" y="50" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-69" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="QsC5FVJO4Tk5U3wjnek2-54">
+          <mxGeometry x="32" y="118" width="421" height="552" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-72" value="&lt;font color=&quot;#99ccff&quot;&gt;[유효한 입력 = YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QsC5FVJO4Tk5U3wjnek2-69">
+          <mxGeometry x="52" y="2" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-73" value="reply data&lt;div&gt;(날짜, 시간, 빈 주차 공간 수,&amp;nbsp;&lt;/div&gt;&lt;div&gt;만차 여부)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="QsC5FVJO4Tk5U3wjnek2-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="47" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="297.88" y="47" />
+            </Array>
+            <mxPoint x="372.88" y="47" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-12" value="주차량 통계 분석 모델 요청&lt;div&gt;&lt;div&gt;(날짜, 시간, 빈 주차 공간 수,&amp;nbsp;&lt;/div&gt;&lt;div&gt;만차 여부)&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="QsC5FVJO4Tk5U3wjnek2-69">
+          <mxGeometry x="0.0595" y="2" relative="1" as="geometry">
+            <mxPoint x="203.25" y="108" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="288.25" y="108" />
+            </Array>
+            <mxPoint x="371.25" y="108" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-76" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="QsC5FVJO4Tk5U3wjnek2-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="404" as="sourcePoint" />
+            <mxPoint x="415.38" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-74" value="&lt;span style=&quot;color: rgb(153, 204, 255);&quot;&gt;[유효한 입력 = NO]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="QsC5FVJO4Tk5U3wjnek2-69">
+          <mxGeometry x="34" y="412" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-75" value="reply data&lt;div&gt;(result = &quot;실패&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="QsC5FVJO4Tk5U3wjnek2-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="443" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="298.88" y="443" />
+            </Array>
+            <mxPoint x="373.88" y="443" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-59" value="주차량 분석 및&amp;nbsp;&lt;div&gt;통계&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="225.75" y="2546" width="100" height="764" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-60" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QsC5FVJO4Tk5U3wjnek2-59">
+          <mxGeometry x="45" y="120" width="10" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-61" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85.75" y="2516" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-62" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="48.25" y="2586" width="100" height="724" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QsC5FVJO4Tk5U3wjnek2-62">
+          <mxGeometry x="45" y="50" width="10" height="613" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-64" value="서버 API" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="408.25" y="2546" width="100" height="764" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-65" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QsC5FVJO4Tk5U3wjnek2-64">
+          <mxGeometry x="45" y="100" width="10" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-66" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="793" y="2597" width="100" height="713" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="QsC5FVJO4Tk5U3wjnek2-66">
+          <mxGeometry x="45" y="220" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-68" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830.5" y="2527" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QsC5FVJO4Tk5U3wjnek2-77" value="DB API" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.244" relative="1" as="geometry">
+            <mxPoint x="463" y="2681" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="548" y="2681" />
+            </Array>
+            <mxPoint x="660.75" y="2681" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="613" y="2600" width="100" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="x8ajl34Hot_uzizTxaX8-1">
+          <mxGeometry x="45.25" y="80" width="10" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.277760823567782;" vertex="1" parent="1">
+          <mxGeometry x="675.5" y="2557" width="17.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-4" value="DB" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650.5" y="2527" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-13" value="주차량 통계 분석 모델 요청&lt;div&gt;&lt;div&gt;(날짜, 시간, 빈 주차 공간 수,&amp;nbsp;&lt;/div&gt;&lt;div&gt;만차 여부)&lt;/div&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="QsC5FVJO4Tk5U3wjnek2-66">
+          <mxGeometry x="0.5641" relative="1" as="geometry">
+            <mxPoint x="464" y="2852" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="549" y="2852" />
+            </Array>
+            <mxPoint x="816.75" y="2852" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-14" value="주차량 통계 분석 모델" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="QsC5FVJO4Tk5U3wjnek2-67">
+          <mxGeometry x="-0.4831" y="-4" relative="1" as="geometry">
+            <mxPoint x="478.63" y="2931.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="663.88" y="2931" />
+            </Array>
+            <mxPoint x="885" y="2927" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-5" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
+          <mxGeometry x="87.75" y="2907" width="404" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-6" value="에러메시지&lt;div&gt;(&quot;에러 발생&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="x8ajl34Hot_uzizTxaX8-5">
+          <mxGeometry x="0.0017" relative="1" as="geometry">
+            <mxPoint x="19" y="186" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="181.97000000000003" y="186" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-7" value="주차량 통계 분석 모델 시각화" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="x8ajl34Hot_uzizTxaX8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="16.75" y="72" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="103" y="72" />
+            </Array>
+            <mxPoint x="178" y="72" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-8" value="&lt;font color=&quot;#99ccff&quot;&gt;[유효한 입력 = YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x8ajl34Hot_uzizTxaX8-5">
+          <mxGeometry x="52" y="2" width="126" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-9" value="reply data&lt;div&gt;(result = &quot;성공&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="x8ajl34Hot_uzizTxaX8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="193" y="52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286.88" y="52" />
+            </Array>
+            <mxPoint x="361.88" y="52" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-10" value="&lt;span style=&quot;color: rgb(153, 204, 255);&quot;&gt;[유효한 입력 = NO]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="x8ajl34Hot_uzizTxaX8-5">
+          <mxGeometry x="55" y="101" width="120" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-11" value="reply data&lt;div&gt;(result = &quot;실패&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="x8ajl34Hot_uzizTxaX8-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="194" y="141" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="287.88" y="141" />
+            </Array>
+            <mxPoint x="362.88" y="141" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.998;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="x8ajl34Hot_uzizTxaX8-5" target="x8ajl34Hot_uzizTxaX8-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1.6899999999999977" y="101" as="sourcePoint" />
+            <mxPoint x="405.25" y="101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8ajl34Hot_uzizTxaX8-17" value="에러메시지&lt;div&gt;(&quot;에러 발생&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0017" relative="1" as="geometry">
+            <mxPoint x="107" y="3189" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="269.97" y="3189" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
