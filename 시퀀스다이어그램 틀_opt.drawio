@@ -1963,17 +1963,17 @@
             <mxPoint x="487.38" y="2608.5699999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-63" value="주차 구역 분류 GUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-63" value="주차량 통계 분석&lt;div&gt;시각화&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="397.25" y="2945" width="100" height="418" as="geometry" />
         </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-63">
           <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-65" value="주차 구역 분류&amp;nbsp;&lt;div&gt;기능&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-65" value="주차량 통계 분석" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="214.75" y="2945" width="100" height="418" as="geometry" />
         </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-65">
-          <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
+          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-67" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
           <mxGeometry x="37.25" y="2985" width="100" height="378" as="geometry" />
@@ -1984,22 +1984,22 @@
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-69" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
           <mxGeometry x="36" y="2995" width="471" height="338" as="geometry" />
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-70" value="주차 구역 분류 기능 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-69">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-70" value="주차량 통계 시각화 요청&lt;div&gt;(날짜, 시간, 빈 주차 공간 수,&amp;nbsp;&lt;/div&gt;&lt;div&gt;만차 여부&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="88" as="sourcePoint" />
+            <mxPoint x="236" y="70" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="315" y="88" />
+              <mxPoint x="315" y="70" />
             </Array>
-            <mxPoint x="406.25" y="88" as="targetPoint" />
+            <mxPoint x="406.25" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-71" value="주차 구역 분류 기능 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-69" target="EFrv1Nhvw4kRYLLrNqHD-66">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-71" value="주차량 통계 분석 요청&lt;div&gt;(날짜, 시간, 빈 주차 공간 수,&amp;nbsp;&lt;/div&gt;&lt;div&gt;만차 여부)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-69">
           <mxGeometry x="-0.0029" y="2" relative="1" as="geometry">
             <mxPoint x="53.25" y="50" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="138.25" y="50" />
             </Array>
-            <mxPoint x="221" y="50" as="targetPoint" />
+            <mxPoint x="229" y="50" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -2014,7 +2014,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-74" value="주차 구역 분류 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-72">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-74" value="주차량 통계 시각화" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="27.75" y="60" as="targetPoint" />
             <Array as="points">
@@ -2061,12 +2061,6 @@
         </mxCell>
         <mxCell id="YQdKS4uJrcT08gWo7Ppf-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
           <mxGeometry x="578" y="1760" width="100" height="378" as="geometry" />
-        </mxCell>
-        <mxCell id="YQdKS4uJrcT08gWo7Ppf-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="608.5" y="3039" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="YQdKS4uJrcT08gWo7Ppf-3" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="601" y="2919" width="25" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
