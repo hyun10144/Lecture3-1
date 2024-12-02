@@ -1671,10 +1671,64 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f5v4nU6mcruE6hb5zpPu" name="AI 1, 2, 3, 4">
-    <mxGraphModel dx="1262" dy="-678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="733" dy="-678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-13" value="차량 객체 인식&amp;nbsp;&lt;div&gt;모델&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="400.25" y="1242" width="100" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-13">
+          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-8" value="차량 객체 인식&amp;nbsp;&lt;div&gt;모델 구축 기능&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="217.75" y="1242" width="100" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-8">
+          <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="40.25" y="1282" width="100" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-11">
+          <mxGeometry x="45" y="50" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-60" value="주차 구역 분류 GUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="399.25" y="2343" width="100" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-61" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-60">
+          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-55" value="주차 구역 분류&amp;nbsp;&lt;div&gt;기능&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="216.75" y="2343" width="100" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-55">
+          <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-58" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="39.25" y="2383" width="100" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-59" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-58">
+          <mxGeometry x="45" y="50" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-42" value="빈 주차 공간 수 탐지 모델" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="401.5" y="1720" width="100" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-42">
+          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-37" value="빈 주차 공간 수&amp;nbsp;&lt;div&gt;탐지&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="219" y="1720" width="100" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-37">
+          <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-40" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="41.5" y="1760" width="100" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-40">
+          <mxGeometry x="45" y="50" width="10" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-3" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
           <mxGeometry x="39" y="1292" width="471" height="338" as="geometry" />
         </mxCell>
@@ -1744,26 +1798,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-8" value="차량 객체 인식&amp;nbsp;&lt;div&gt;모델 구축 기능&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="217.75" y="1242" width="100" height="418" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-8">
-          <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-10" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="77.75" y="1212" width="25" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-11" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
-          <mxGeometry x="40.25" y="1282" width="100" height="378" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-12" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-11">
-          <mxGeometry x="45" y="50" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-13" value="차량 객체 인식&amp;nbsp;&lt;div&gt;모델&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="400.25" y="1242" width="100" height="418" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-13">
-          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1774,7 +1810,7 @@
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-27" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
           <mxGeometry x="40.25" y="1770" width="471" height="338" as="geometry" />
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-28" value="주차 구역 분류 기능 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-27">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-28" value="빈 주차 공간 수 탐지 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="88" as="sourcePoint" />
             <Array as="points">
@@ -1783,7 +1819,7 @@
             <mxPoint x="406.25" y="88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-29" value="주차 구역 분류 기능 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-27" target="EFrv1Nhvw4kRYLLrNqHD-38">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-29" value="빈 주차 공간 수 탐지 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-27" target="EFrv1Nhvw4kRYLLrNqHD-38">
           <mxGeometry x="-0.0029" y="2" relative="1" as="geometry">
             <mxPoint x="53.25" y="50" as="sourcePoint" />
             <Array as="points">
@@ -1794,7 +1830,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-30" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-27">
-          <mxGeometry x="31" y="118" width="420" height="199" as="geometry" />
+          <mxGeometry x="28.75" y="119" width="420" height="199" as="geometry" />
         </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-31" value="에러메시지&lt;div&gt;(&quot;에러 발생&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-30">
           <mxGeometry relative="1" as="geometry">
@@ -1804,7 +1840,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-32" value="주차 구역 분류 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-30">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-32" value="빈 주차 공간 수 탐지 결과" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="27.75" y="60" as="targetPoint" />
             <Array as="points">
@@ -1817,13 +1853,13 @@
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-33" value="&lt;font color=&quot;#99ccff&quot;&gt;[유효한 입력 = YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-30">
           <mxGeometry x="59.75" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-34" value="reply data&lt;div&gt;(result = &quot;성공&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-30">
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-34" value="reply data&lt;div&gt;(주차장 이름, 전체 빈 주차 공간 수)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="204" y="40" as="targetPoint" />
+            <mxPoint x="206" y="40" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="297.88" y="40" />
+              <mxPoint x="299.88" y="40" />
             </Array>
-            <mxPoint x="372.88" y="40" as="sourcePoint" />
+            <mxPoint x="374.88" y="40" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -1840,32 +1876,197 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-37" value="주차 구역 분류&amp;nbsp;&lt;div&gt;기능&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="219" y="1720" width="100" height="418" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-37">
-          <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-39" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="79" y="1690" width="25" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-40" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
-          <mxGeometry x="41.5" y="1760" width="100" height="378" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-40">
-          <mxGeometry x="45" y="50" width="10" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-42" value="주차 구역 분류 GUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="401.5" y="1720" width="100" height="418" as="geometry" />
-        </mxCell>
-        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-43" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-42">
-          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="EFrv1Nhvw4kRYLLrNqHD-44" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="74.25" y="1985.57" as="sourcePoint" />
             <mxPoint x="489.63" y="1985.57" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-45" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
+          <mxGeometry x="38" y="2393" width="471" height="338" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-46" value="주차 구역 분류 기능 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="88" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="315" y="88" />
+            </Array>
+            <mxPoint x="406.25" y="88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-47" value="주차 구역 분류 기능 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-45" target="EFrv1Nhvw4kRYLLrNqHD-56">
+          <mxGeometry x="-0.0029" y="2" relative="1" as="geometry">
+            <mxPoint x="53.25" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="138.25" y="50" />
+            </Array>
+            <mxPoint x="221" y="50" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-48" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-45">
+          <mxGeometry x="31" y="118" width="420" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-49" value="에러메시지&lt;div&gt;(&quot;에러 발생&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="22.03" y="150.28857142857154" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="189.75" y="150.85999999999999" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-50" value="주차 구역 분류 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="27.75" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="114" y="60" />
+            </Array>
+            <mxPoint x="189" y="60" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-51" value="&lt;font color=&quot;#99ccff&quot;&gt;[유효한 입력 = YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-48">
+          <mxGeometry x="59.75" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-52" value="reply data&lt;div&gt;(result = &quot;성공&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="297.88" y="40" />
+            </Array>
+            <mxPoint x="372.88" y="40" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-53" value="&lt;span style=&quot;color: rgb(153, 204, 255);&quot;&gt;[유효한 입력 = NO]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-48">
+          <mxGeometry x="50" y="99" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-54" value="reply data&lt;div&gt;(result = &quot;실패&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="129" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="298.88" y="129" />
+            </Array>
+            <mxPoint x="373.88" y="129" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-57" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76.75" y="2313" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-62" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="72" y="2608.5699999999997" as="sourcePoint" />
+            <mxPoint x="487.38" y="2608.5699999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-63" value="주차 구역 분류 GUI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="397.25" y="2945" width="100" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-63">
+          <mxGeometry x="45" y="100" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-65" value="주차 구역 분류&amp;nbsp;&lt;div&gt;기능&lt;/div&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="214.75" y="2945" width="100" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-65">
+          <mxGeometry x="45" y="90" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-67" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="37.25" y="2985" width="100" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-68" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-67">
+          <mxGeometry x="45" y="50" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-69" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
+          <mxGeometry x="36" y="2995" width="471" height="338" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-70" value="주차 구역 분류 기능 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="88" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="315" y="88" />
+            </Array>
+            <mxPoint x="406.25" y="88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-71" value="주차 구역 분류 기능 요청" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-69" target="EFrv1Nhvw4kRYLLrNqHD-66">
+          <mxGeometry x="-0.0029" y="2" relative="1" as="geometry">
+            <mxPoint x="53.25" y="50" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="138.25" y="50" />
+            </Array>
+            <mxPoint x="221" y="50" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-72" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-69">
+          <mxGeometry x="31" y="118" width="420" height="199" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-73" value="에러메시지&lt;div&gt;(&quot;에러 발생&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="22.03" y="150.28857142857154" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="189.75" y="150.85999999999999" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-74" value="주차 구역 분류 완료" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="27.75" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="114" y="60" />
+            </Array>
+            <mxPoint x="189" y="60" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-75" value="&lt;font color=&quot;#99ccff&quot;&gt;[유효한 입력 = YES]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-72">
+          <mxGeometry x="59.75" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-76" value="reply data&lt;div&gt;(result = &quot;성공&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="204" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="297.88" y="40" />
+            </Array>
+            <mxPoint x="372.88" y="40" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-77" value="&lt;span style=&quot;color: rgb(153, 204, 255);&quot;&gt;[유효한 입력 = NO]&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="EFrv1Nhvw4kRYLLrNqHD-72">
+          <mxGeometry x="50" y="99" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-78" value="reply data&lt;div&gt;(result = &quot;실패&quot;)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="EFrv1Nhvw4kRYLLrNqHD-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="129" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="298.88" y="129" />
+            </Array>
+            <mxPoint x="373.88" y="129" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-79" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="74.75" y="2915" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EFrv1Nhvw4kRYLLrNqHD-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="3210.5699999999997" as="sourcePoint" />
+            <mxPoint x="485.38" y="3210.5699999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YQdKS4uJrcT08gWo7Ppf-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=0;" vertex="1" parent="1">
+          <mxGeometry x="578" y="1760" width="100" height="378" as="geometry" />
+        </mxCell>
+        <mxCell id="YQdKS4uJrcT08gWo7Ppf-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="608.5" y="3039" width="10" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="YQdKS4uJrcT08gWo7Ppf-3" value="RPY Server" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="2919" width="25" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
